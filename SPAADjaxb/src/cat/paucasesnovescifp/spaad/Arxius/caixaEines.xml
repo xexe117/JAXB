@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<caixa codi="CAX1">
+    <nom>eines petites</nom>
+    <eina codi="DESX1">
+        <nom>Tornavís estrella</nom>
+        <tamany>1</tamany>
+    </eina><eina codi="DESX2">
+        <nom>Tornavís estrella</nom>
+        <tamany>2</tamany>
+    </eina><eina codi="DESX3">
+        <nom>Tornavís estrella</nom>
+        <tamany>3</tamany>
+    </eina><eina codi="DESP1">
+        <nom>Tornavís pla</nom>
+        <tamany>1</tamany>
+    </eina><eina codi="DESP2">
+        <nom>Tornavís pla</nom>
+        <tamany>2</tamany>
+    </eina><eina codi="DESP3">
+        <nom>Tornavís pla</nom>
+        <tamany>3</tamany>
+    </eina></caixa>
